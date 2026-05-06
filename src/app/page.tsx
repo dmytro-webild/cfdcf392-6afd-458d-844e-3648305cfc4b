@@ -45,11 +45,11 @@ export default function LandingPage() {
             description="Ασφαλείς και άνετες μεταφορές 24/7. Ζήστε την εμπειρία μιας Mercedes σε τιμή ταξί."
             buttons={[{ text: "Καλέστε Τώρα", href: "tel:6973082659" }]}
             mediaItems={[
-              { imageSrc: "http://img.b2bpic.net/free-photo/black-car-garage_417767-26.jpg", imageAlt: "Mercedes VIP vehicle" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/elegant-man-standing-his-car-taxi-services_23-2149149593.jpg", imageAlt: "Mercedes front profile" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/young-woman-driving-car-night_1303-17030.jpg", imageAlt: "Mercedes luxury interior" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/front-view-black-new-car-with-doors-opened_23-2148332902.jpg", imageAlt: "Front view black new car with doors opened" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/photo-infiniti-g37-coupe-parking_158538-24745.jpg", imageAlt: "Photo of Infiniti G37 coupe at the parking" }
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071592116-k3a4kigi.jpg", imageAlt: "Mercedes VIP vehicle" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071669285-ciyar8ka.jpg", imageAlt: "Mercedes front profile" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071674370-q06xfz0t.jpg", imageAlt: "Mercedes luxury interior" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071943418-wdvzp7ym.jpg", imageAlt: "Front view black new car with doors opened" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071949992-lw4phke7.jpg", imageAlt: "Photo of Infiniti G37 coupe at the parking" }
             ]}
             mediaAnimation="slide-up"
           />
