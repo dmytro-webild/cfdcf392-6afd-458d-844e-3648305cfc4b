@@ -43,7 +43,7 @@ export default function LandingPage() {
             background={{ variant: "plain" }}
             title="Καρρράς Μιχάλης – VIP Μεταφορές στο Άστρος"
             description="Ασφαλείς και άνετες μεταφορές 24/7. Ζήστε την εμπειρία μιας Mercedes σε τιμή ταξί."
-            buttons={[{ text: "+30 6974438602 ", href: "tel:6973082659" }]}
+            buttons={[{ text: "6974438602 ", href: "tel:6974438602" }]}
             mediaItems={[
               { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071592116-k3a4kigi.jpg", imageAlt: "Mercedes VIP vehicle" },
               { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLirX6JDfrHJaOupkWZUXi4ayK/uploaded-1778071669285-ciyar8ka.jpg", imageAlt: "Mercedes front profile" },
