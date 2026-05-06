@@ -61,7 +61,7 @@ export default function LandingPage() {
             heading={[
               { type: "text", content: "Πολυτελής Μεταφορά με " },
               { type: "image", src: "http://img.b2bpic.net/free-photo/senior-businessman-official-clothes-sits-luxury-car-pushing-buttons-music-player_146671-14417.jpg", alt: "Luxury Taxi Service" },
-              { type: "text", content: " Στις Τιμές ενός Ταξί" },
+              { type: "text", content: " Luxury Mercedes: Πολυτελής μεταφορά, άνεση, ασφάλεια 24/7." },
             ]}
           />
         </div>
