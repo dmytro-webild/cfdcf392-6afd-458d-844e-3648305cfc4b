@@ -20,6 +20,7 @@ export const metadata: Metadata = {
   },
 };
 
+
 const manrope = Manrope({
   variable: "--font-manrope",
   subsets: ["latin"],
