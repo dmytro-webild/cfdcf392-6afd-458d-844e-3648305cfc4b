@@ -76,7 +76,7 @@ export default function LandingPage() {
               { id: "2", title: "24/7 Εξυπηρέτηση", description: "Διαθέσιμοι οποιαδήποτε ώρα της ημέρας, 365 ημέρες το χρόνο.", tag: "24/7", imageSrc: "http://img.b2bpic.net/free-photo/luxury-interior-modern-businessman-trying-his-new-car-automobile-salon_146671-16706.jpg" },
               { id: "3", title: "Πολυτελής Στόλος", description: "2 Mercedes-Benz οχήματα για μέγιστη άνεση.", tag: "Premium", imageSrc: "http://img.b2bpic.net/free-photo/businessman-while-traveling-by-car-back-seat-using-smartphone_158595-4236.jpg" },
               { id: "4", title: "VIP Εταιρικά Ταξίδια", description: "Απόλυτη διακριτικότητα για επαγγελματικές μετακινήσεις.", tag: "Business", imageSrc: "http://img.b2bpic.net/free-photo/stylish-bearded-male-eyeglasses-with-tattoo-his-arm-using-portable-tablet-pc-back-seat-car_613910-12283.jpg" },
-              { id: "5", title: "Εκδρομές & Ξενάγηση", description: "Μεταφορές σε όλη την Πελοπόννησο με άνεση.", tag: "Tourism", imageSrc: "http://img.b2bpic.net/free-photo/customer-satisfaction-service-care-problem-solving_53876-139687.jpg" }
+              { id: "5", title: "Εκδρομές Γεμάτες Ασφάλεια", description: "Μεταφορές σε όλη την Ελλάδα με άνεση.", tag: "Tourism", imageSrc: "http://img.b2bpic.net/free-photo/customer-satisfaction-service-care-problem-solving_53876-139687.jpg" }
             ]}
             title="Οι Υπηρεσίες μας"
             description="Παρέχουμε κορυφαία εμπειρία μεταφοράς με έμφαση στην άνεση και την ασφάλεια."
