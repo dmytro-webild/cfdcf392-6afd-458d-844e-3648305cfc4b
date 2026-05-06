@@ -19,10 +19,10 @@ export default function LandingPage() {
       borderRadius="soft"
       contentWidth="small"
       sizing="mediumLargeSizeLargeTitles"
-      background="noiseDiagonalGradient"
-      cardStyle="soft-shadow"
-      primaryButtonStyle="gradient"
-      secondaryButtonStyle="radial-glow"
+      background="none"
+      cardStyle="outline"
+      primaryButtonStyle="flat"
+      secondaryButtonStyle="solid"
       headingFontWeight="medium"
     >
       <ReactLenis root>
@@ -40,7 +40,7 @@ export default function LandingPage() {
 
         <div id="hero" data-section="hero">
           <HeroBillboardGallery
-            background={{ variant: "gradient-bars" }}
+            background={{ variant: "plain" }}
             title="Καρρράς Μιχάλης – VIP Μεταφορές στο Άστρος"
             description="Ασφαλείς και άνετες μεταφορές 24/7. Ζήστε την εμπειρία μιας Mercedes σε τιμή ταξί."
             buttons={[{ text: "Καλέστε Τώρα", href: "tel:6973082659" }]}
@@ -70,7 +70,7 @@ export default function LandingPage() {
           <FeatureCardMedia
             animationType="slide-up"
             textboxLayout="split"
-            useInvertedBackground={true}
+            useInvertedBackground={false}
             features={[
               { id: "1", title: "Αεροδρόμια & Λιμάνια", description: "Άμεση και συνεπής μεταφορά χωρίς αναμονές.", tag: "Transfer", imageSrc: "http://img.b2bpic.net/free-photo/holding-plastic-cup-coffee-paperwork-back-seat-car-senior-businessman-with-documents_146671-14517.jpg" },
               { id: "2", title: "24/7 Εξυπηρέτηση", description: "Διαθέσιμοι οποιαδήποτε ώρα της ημέρας, 365 ημέρες το χρόνο.", tag: "24/7", imageSrc: "http://img.b2bpic.net/free-photo/luxury-interior-modern-businessman-trying-his-new-car-automobile-salon_146671-16706.jpg" },
@@ -103,7 +103,7 @@ export default function LandingPage() {
         <div id="faq" data-section="faq">
           <FaqSplitMedia
             textboxLayout="split"
-            useInvertedBackground={true}
+            useInvertedBackground={false}
             faqs={[
               { id: "q1", title: "Πώς μπορώ να κλείσω ραντεβού;", content: "Καλέστε μας στα 6973082659 ή 6974438602." },
               { id: "q2", title: "Είστε διαθέσιμοι 24/7;", content: "Ναι, το ταξί μας λειτουργεί όλο το 24ωρο για εσάς." },
